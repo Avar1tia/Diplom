@@ -6,3 +6,5 @@
 Нейронка
 C#
 Unity/Яндекс
+
+![image](https://github.com/Avar1tia/Diplom/assets/97594483/ef17cd97-1ee7-4b8d-a282-3223c29dedf9)
