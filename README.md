@@ -1,9 +1,9 @@
 
-План:
-Выбор темы: ПК
-Нейронка (или база данных)
-Сайт
-<big>Выбор программы:</big> Sublime Text
+<h1>План:</h1>
+<p>Выбор темы: ПК</p>
+<p>Нейронка (или база данных)</p>
+<p>Сайт</p>
+<p><big>Выбор программы:</big> Sublime Text</p>
 ![image](https://github.com/Avar1tia/Diplom/assets/97594483/5ec7f99d-89d8-4dc3-8355-80b00de97883)
 
 ![image](https://github.com/Avar1tia/Diplom/assets/97594483/a7bdd2f7-8119-4ef6-a0b8-f645d8ebe41b)
