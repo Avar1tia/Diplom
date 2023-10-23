@@ -3,6 +3,7 @@
 <p>Выбор темы: Сайт с интеграцие базы данных</p>
 <p>Сайт</p>
 <p><big>Выбор программы:</big> Sublime Text</p>
+<p><big>Языки: HTML/CSS; PHP; MySQL; Java</big>
 
 ![image](https://github.com/Avar1tia/Diplom/assets/97594483/8241af76-e4ed-40c8-af59-573c2277bccf)
 
