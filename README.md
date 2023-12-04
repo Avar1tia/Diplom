@@ -1,9 +1,8 @@
 
 <h1>План:</h1>
-<p>Выбор темы: Сайт с интеграцие базы данных</p>
-<p>Сайт</p>
-<p><big>Выбор программы:</big> Sublime Text</p>
-<p><big>Языки: HTML/CSS; PHP; MySQL; Java</big>
+<p>Выбор темы: WPF приложение с интеграцией базы данных</p>
+<p><big>Выбор программы:</big>Visual Studio</p>
+<p><big>Языки: XAML, C#</big>
 
 ![image](https://github.com/Avar1tia/Diplom/assets/97594483/8241af76-e4ed-40c8-af59-573c2277bccf)
 
